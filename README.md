@@ -17,6 +17,7 @@ Go generics 1.18+ materials for my lessons
 - https://github.com/amtoaer/generic-sort
 - https://github.com/bahlo/generic-list-go
 - https://github.com/mikhailswift/go-collections
+- https://github.com/dboslee/lru
 - https://github.com/irateswami/go-cache-generics
 - https://github.com/Code-Hex/go-generics-cache
 - https://github.com/zhangyunhao116/pdqsort
